@@ -6,3 +6,13 @@ PaaS (Platform-as-a-Service): Offers a platform for developing and running appli
 SaaS (Software-as-a-Service): Delivers software applications to users over the internet, with no need for local installation. 
 
 Examples:
+
+Google App Engine is a Platform as a Service (PaaS) that simplifies building and deploying web applications. It provides a fully managed environment where developers can focus on coding without worrying about server provisioning or scaling. App Engine handles these tasks automatically, allowing apps to scale up or down based on demand. 
+
+Joseph Carl Robnett Licklider, often referred to as J.C.R. Licklider, is widely regarded as the "father of cloud computing". In the 1960s, he envisioned a global network that could connect people and data from anywhere, layin
+
+EC2 stands for Amazon Elastic Compute Cloud, a web service offered by Amazon Web Services (AWS). It provides on-demand, scalable, and secure computing capacity in the cloud. Essentially, it allows users to rent virtual servers (called instances) to run their applications in the cloud. 
+Here's a more detailed explanation:
+
+    Elastic Compute Cloud:
+    The name "Elastic Compute Cloud" reflects the service's ability to dynamically scale computing resources up or down based on demand. 
