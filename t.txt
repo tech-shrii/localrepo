@@ -17,3 +17,6 @@ Here's a more detailed explanation:
     The name "Elastic Compute Cloud" reflects the service's ability to dynamically scale computing resources up or down based on demand. 
 
 The App Engine Admin API is a RESTful API provided by Google Cloud that allows developers to programmatically manage App Engine applications. It offers access to various administrative tasks, such as deploying new application versions, managing traffic distribution, and handling authentication. 
+Understanding Cloud Computing: The AWS EC2 Instance | by Kate ...
+
+EC2 instances are virtual machines running on Amazon's hardware. More specifically they are virtual servers. Just like a virtual machine, EC2 instances are guest machines run by hypervisors on host machines.4 Dec 2022
