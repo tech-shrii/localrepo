@@ -20,3 +20,5 @@ The App Engine Admin API is a RESTful API provided by Google Cloud that allows d
 Understanding Cloud Computing: The AWS EC2 Instance | by Kate ...
 
 EC2 instances are virtual machines running on Amazon's hardware. More specifically they are virtual servers. Just like a virtual machine, EC2 instances are guest machines run by hypervisors on host machines.4 Dec 2022
+
+Cloud computing is a way of accessing and delivering computing resources, like software, storage, and infrastructure, over the internet. It eliminates the need to own and manage physical servers and allows users to access services on-demand and pay only for what they use. A common example is using online storage like Google Drive or iCloud to save files, or strea
