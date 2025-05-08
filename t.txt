@@ -1,6 +1,5 @@
 Types of Cloud Services:
-
-    IaaS (Infrastructure-as-a-Service): Provides users with virtualized computing resources like servers, storage, and networking. 
+IaaS (Infrastructure-as-a-Service): Provides users with virtualized computing resources like servers, storage, and networking. 
 
 PaaS (Platform-as-a-Service): Offers a platform for developing and running applications, including the underlying infrastructure. 
 SaaS (Software-as-a-Service): Delivers software applications to users over the internet, with no need for local installation. 
@@ -16,3 +15,5 @@ Here's a more detailed explanation:
 
     Elastic Compute Cloud:
     The name "Elastic Compute Cloud" reflects the service's ability to dynamically scale computing resources up or down based on demand. 
+
+The App Engine Admin API is a RESTful API provided by Google Cloud that allows developers to programmatically manage App Engine applications. It offers access to various administrative tasks, such as deploying new application versions, managing traffic distribution, and handling authentication. 
